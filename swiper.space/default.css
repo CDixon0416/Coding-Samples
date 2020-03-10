@@ -1,0 +1,103 @@
+*
+{
+	font-family:coolvetica;
+}
+body
+{	
+	background-color:#094511;
+}
+#form 
+{	
+	margin-top:2%;
+	margin-left:35%;
+	width:30%;
+	text-align:center;
+	font-size:30px;
+	background-color:white;
+	border-radius:10px;
+	align:center;
+}
+input
+{
+	width:95%;
+}
+@font-face
+{
+	font-family:coolvetica;
+	src:url("coolvetica rg.ttf");
+}
+#logo
+{
+	width:100%;
+	background-color:gray;
+	border-radius:10px;
+	img-align:center;
+}
+#message
+{	
+	text-shadow:10px white;
+	outline-color:white;
+}
+button
+{
+	font-size:18px;
+	height:50px;
+	width:100px;
+	margin-top:2%;
+	margin-bottom:2%;
+}
+#button
+{
+	height:30px;
+	width:200px;
+}
+#login
+{
+	height:25px;
+	width:25px;
+	position:absolute;
+	margin-top:0.40%;
+	margin-left:0.5%;
+}
+select
+{
+	height:30px;
+	width:200px;
+}
+textarea
+{
+	height:30px;
+	width:95%;
+}
+#job
+{
+	margin-top:2%;
+	margin-left:35%;
+	width:30%;
+	text-align:center;
+	font-size:30px;
+	background-color:white;
+	border-radius:10px;
+}
+#jobbutton
+{
+	margin-top:2%;
+	margin-left:35%;
+	width:30%;
+	text-align:center;
+	font-size:30px;
+	background-color:white;
+	border-radius:10px;
+}
+#yes
+{	
+	position:fixed;
+	right:50px;
+	top:100px;
+}
+#no
+{
+	position:fixed;
+	left:50px;
+	top:310px;
+}
